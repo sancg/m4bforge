@@ -1,0 +1,9 @@
+{
+  "title": "The Secret Garden",
+  "author": "Frances Hodgson Burnett",
+  "cover": "./cover.jpg",
+  "chapters": [
+    { "title": "Chapter 1", "file": "./ch1.m4a" },
+    { "title": "Chapter 2", "file": "./ch2.m4a" }
+  ]
+}

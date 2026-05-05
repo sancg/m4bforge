@@ -1,0 +1,39 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Env
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files from your pipeline
+inputs.txt
+metadata.txt
+temp.m4b
+output.m4b
+
+
+# Audio assets (optional, depends on your workflow)
+*.m4a
+*.mp3
+*.wav
+*.m4b
+
+# Cover images (optional)
+*.jpg
+*.png
+meta.json
