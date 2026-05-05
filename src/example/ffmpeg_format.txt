@@ -1,0 +1,15 @@
+;FFMETADATA1
+title=The Secret Garden
+artist=Frances Hodgson Burnett
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=175000
+title=Chapter 1
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=175000
+END=350000
+title=Chapter 2
